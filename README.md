@@ -1,2 +1,2 @@
-# Computer_Vision-Image_Analysis
+# Computer_Vision and Image_Analysis
 Ecole Polytechnique course
