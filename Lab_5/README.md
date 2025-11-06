@@ -2,7 +2,7 @@
 
 A comprehensive implementation of fundamental computer vision techniques for stereo image analysis, demonstrating advanced understanding of 3D reconstruction, camera geometry, and feature matching algorithms.
 
-## 🎯 Project Overview
+## 🎯 Overview
 
 This lab implements stereo vision algorithms to analyze image pairs taken from different viewpoints. The implementation covers the complete pipeline from camera calibration to feature correspondence, showcasing practical applications in 3D scene reconstruction and depth estimation.
 
