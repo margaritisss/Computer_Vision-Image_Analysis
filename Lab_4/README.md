@@ -123,16 +123,8 @@ This project showcases proficiency in:
 
 ## 📚 Academic Context
 
-**Course**: INF573 - Computer Vision and Image Analysis  
+**Course**: Computer Vision and Image Analysis  
 **Institution**: Graduate-level coursework  
-**Original Framework**: Adapted from Oxford VGG practical materials  
-**Instructor**: Vicky Kalogeiton, Mathieu Brédif, Thomas Michel
-
-## 📝 License
-
-Copyright (c) 2020 Vicky Kalogeiton
-
-Adapted from Oxford VGG practical. Licensed under MIT License - see LICENSE file for details.
 
 ---
 
