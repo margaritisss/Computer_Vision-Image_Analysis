@@ -6,7 +6,7 @@ A comprehensive exploration of Convolutional Neural Networks (CNNs) for computer
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 🎯 Project Overview
+## 🎯 Overview
 
 This project demonstrates practical expertise in deep learning and computer vision through three progressive components:
 
